@@ -31,7 +31,7 @@ x=read.csv("tsunamis.txt", sep="\t")
 ```
 `@sample_code`
 ```{r}
-dfgdfgdfgdfg
+# the variable x has already been initialized
 ```
 `@solution`
 ```{r}
