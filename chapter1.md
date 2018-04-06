@@ -18,7 +18,7 @@ key: 2bdda055ef
 Do some data science.
 
 `@instructions`
-
+Do some data science.
 
 `@hint`
 
@@ -52,10 +52,7 @@ sd(xproc,na.rm=TRUE)
 summary(xproc)
 boxplot(xproc)
 ```
-`@sct`
-```{r}
-dfgdfgdfgfdg
-```
+
 
 
 
