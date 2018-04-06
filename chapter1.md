@@ -23,10 +23,22 @@ Do some data science.
 `@hint`
 
 
-
-
-
-
+`@pre_exercise_code`
+```{r}
+fgdfgdfg
+```
+`@sample_code`
+```{r}
+dfgdfgdfgdfg
+```
+`@solution`
+```{r}
+dfgdfgdfg
+```
+`@sct`
+```{r}
+dfgdfgdfgfdg
+```
 
 
 
