@@ -1,9 +1,11 @@
 ---
-title: Template Chapter 1
-description: This is a template chapter.
----
+title: Exercise 1
+description: >-
+  Exercise 1
 
-## Ex 1.1
+
+---
+## Exercise 1
 
 ```yaml
 type: NormalExercise
@@ -21,26 +23,11 @@ Do some data science.
 `@hint`
 
 
-`@pre_exercise_code`
 
-```{r}
 
-```
 
-`@sample_code`
 
-```{r}
 
-```
 
-`@solution`
 
-```{r}
 
-```
-
-`@sct`
-
-```{r}
-
-```
